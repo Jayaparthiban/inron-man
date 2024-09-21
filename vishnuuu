@@ -1,0 +1,12 @@
+public class BirthdayWish {
+    public static void main(String[] args) {
+        // Name and age of the birthday person
+        String name = "Vishnu Dev";
+        int age = 25; // You can change this to the actual age
+
+        // Print the birthday wish message
+        System.out.println("\nHappy Birthday, " + name + "!");
+        System.out.println("Congratulations on turning " + age + " years old!");
+        System.out.println("Wishing you an amazing year filled with success, happiness, and love!");
+    }
+}
